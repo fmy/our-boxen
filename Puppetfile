@@ -55,3 +55,13 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "chrome",     "1.1.2"
+github "dropbox",    "1.2.0"
+github "iterm2",     "1.0.4"
+github "alfred",     "1.1.7"
+github "mplayerx",   "1.0.1"
+github "osxfuse",    "1.1.0"
+github "istatmenus3", "1.0.1"
+github "sublime_text_2", "1.1.2"
+github "keyremap4macbook", "1.1.0"
